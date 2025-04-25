@@ -4,7 +4,7 @@ print("welcome, I am Amir Mahdi")
 
 while True:
     
-    year = input("Please enter a year or type 'exit' to quit: ")
+    year = input("Please enter a year or type 'exit': ")
 
     if year.lower() == "exit":
         print("Goodbye!")
@@ -19,4 +19,4 @@ while True:
             print(f"No, the year {year} is not a leap year. :( ")
 
     except ValueError:
-        print("Invalid input! Please enter a valid year or type 'exit' to quit.")
+        print("Invalid input! Please enter a valid year or type 'exit'.")
