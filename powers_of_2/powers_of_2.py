@@ -18,5 +18,5 @@ while True:
     # پرسش برای اجرای مجدد
     again = input("Do you want to try again? (y/n): ").strip().lower()
     if again != 'y':
-        print("Goodbye! 👋")
+        print("Goodbye!")
         break
