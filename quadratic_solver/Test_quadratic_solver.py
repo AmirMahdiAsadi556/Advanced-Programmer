@@ -4,13 +4,11 @@ print("welcome, I am Amir Mahdi")
 
 import math
 
-#نمایش اینکه این برنامه چه کار انجام می دهد.
+#نمایش میده برنماه چیکار میکنه
 
 print("This program solves a quadratic equation: ax² + bx + c = 0")
 
-# Getting coefficients from user
-# دریافت ضرایب از کاربر
-
+#ضرایب رو دریافت میکنیم
 a = float(input("Enter coefficient a: "))
 b = float(input("Enter coefficient b: "))
 c = float(input("Enter coefficient c: "))
