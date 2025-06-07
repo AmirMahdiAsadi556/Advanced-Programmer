@@ -83,12 +83,6 @@ print("--------------------------\n")
 # ساختن یک آبجکت از کلاس دانشجو
 
 amir = Daneshjoo(
-    esm="Amir",
-    sen=23,
-    ghad=1.78,
-    vazn=55,
-    iq=140,
-    jensiat="Mard",
     shomare_daneshjooi="01121030709003",
     code_meli="5560675431",
     reshteh="Mohandesi control"
